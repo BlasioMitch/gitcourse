@@ -1,2 +1,3 @@
 I have created a repository in the folder gitcourse
 then initialised git init in the folder.
+I have now created 2 branches and diting in branch edit-one
