@@ -1,1 +1,2 @@
 I have now staged (git add) both files and committed (git commit -m "") both files
+Now editin twogit on  branch edit-two
