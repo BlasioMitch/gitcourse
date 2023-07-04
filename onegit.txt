@@ -1,0 +1,2 @@
+I have created a repository in the folder gitcourse
+then initialised git init in the folder.
